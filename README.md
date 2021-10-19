@@ -29,7 +29,8 @@
 
 
 ---
-
+## `Deploy`
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MuhammedNihaljr/britto_v2/)
 
 
 # Requirements
