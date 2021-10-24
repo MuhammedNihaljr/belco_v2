@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/9b873234a9cc47a5916ae.jpg" alt="BRITTO" width="500" />
+<img src="https://i.imgur.com/uyeYEYk.jpeg" alt="BRITTO" width="500" />
 
 # BRITTO_V2
 
@@ -93,14 +93,3 @@ webpmux -version
 # Features
 - Cek [disini](https://github.com/Nino-chan02/NinoWangy/blob/main/message/help.js)
 
-# MAKASIH LORT
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Arip`](https://github.com/Akkun3704)
-* [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`Aqulzz`](https://github.com/zennn08)
-* [`Hexa`](https://github.com/Hexagonz)
-* [`Slavyan`](https://github.com/SlavyanDesu)
-* [`Galang`](https://github.com/Zobin33)
-* [`Franky`](https://github.com/Frankysolo)
-* [`Ryan`](https://github.com/HiRyn)
-* [`Rashid`](https://github.com/rashidsiregar28)
