@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/uyeYEYk.jpeg" alt="BRITTO" width="500" />
+<img src="https://i.imgur.com/XoPG8mq.jpeg" alt="BRITTO" width="500" />
 
 # BRITTO_V2
 
