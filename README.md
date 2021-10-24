@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://telegra.ph/file/9b873234a9cc47a5916ae.jpg" alt="NinoBot" width="500" />
+<img src="https://telegra.ph/file/9b873234a9cc47a5916ae.jpg" alt="BRITTO" width="500" />
 
-# Britto_v2
+# BRITTO_V2
 
-> NinoBot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> FORK CHEYYUMBO EVIDELUM ENDE NAME VEKKANE!
 >
 >
 
