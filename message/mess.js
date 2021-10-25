@@ -1,9 +1,9 @@
 module.exports.mess = {
-	        wait: '*Wait Now*',
-			success: '*Succes*',
+	        wait: '*ᴡᴀɪᴛᴇ...*',
+			success: '*sᴜᴄᴄᴇs*',
 			wrongFormat: '*Format Is Wrong Retry..!*',
 			error: {
-				api: '*Oops An Error Occurred*',
+				api: '*ᴇʀʀᴏʀ*',
 				stick: '*Not That Sticker :v*',
 				Iv: '*Invalid Link*'
 			},
@@ -11,7 +11,7 @@ module.exports.mess = {
 				group: '*This command is specific to within the Group only.*',
 				admin: '*This command is specific to within the Group only.*',
 				premium: '*You are not a premium user, send an order* *!buy premium* *to buy premium*',
-				owner: '*This command is specific to the ʙʀɪᴛᴛᴏ sɪʀ♕︎ only.*',
+				owner: '*This command to *ʙᴇʟᴄᴏ sɪʀ☆* only.*',
 				Badmin: '*This command is only for bots when you are an admin!!*',
 			}
 		}
